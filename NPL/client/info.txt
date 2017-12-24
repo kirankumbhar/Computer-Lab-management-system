@@ -1,0 +1,83 @@
+
+cpu:
+                       Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz, 1333 MHz
+                       Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz, 1200 MHz
+                       Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz, 1600 MHz
+                       Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz, 2666 MHz
+keyboard:
+                       Chicony Electronics HP Multimedia Keyboard
+mouse:
+                       Colorado HP Optical Mouse
+monitor:
+                       HP 2009
+graphics card:
+                       Intel Core Processor Integrated Graphics Controller
+sound:
+                       Intel 5 Series/3400 Series Chipset High Definition Audio
+storage:
+                       Intel SATA Controller [RAID mode]
+network:
+  enp1s0               Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  wlp3s0               Ralink RT2790 Wireless 802.11n 1T/2R PCIe
+network interface:
+  wlp3s0               Ethernet network interface
+  lo                   Loopback network interface
+  ppp0                 Network Interface
+  enp1s0               Ethernet network interface
+disk:
+  /dev/sda             WDC WD10EZRX-00L
+  /dev/sdb             Generic Compact Flash
+  /dev/sdc             Generic SM/xD-Picture
+  /dev/sdd             Generic SD/MMC
+  /dev/sde             Generic MS/MS-Pro
+  /dev/sdf             SanDisk Cruzer Blade
+partition:
+  /dev/sda1            Partition
+  /dev/sda2            Partition
+  /dev/sda3            Partition
+  /dev/sda4            Partition
+  /dev/sda5            Partition
+  /dev/sda6            Partition
+  /dev/sda7            Partition
+  /dev/sdf1            Partition
+cdrom:
+  /dev/sr0             hp DVD-RAM GH40L
+usb controller:
+                       Intel 5 Series/3400 Series Chipset USB2 Enhanced Host Controller
+                       Intel 5 Series/3400 Series Chipset USB2 Enhanced Host Controller
+bios:
+                       BIOS
+bridge:
+                       Intel Core Processor DRAM Controller
+                       Intel 5 Series/3400 Series Chipset PCI Express Root Port 1
+                       Intel 5 Series/3400 Series Chipset PCI Express Root Port 3
+                       Intel 5 Series/3400 Series Chipset PCI Express Root Port 4
+                       Intel 82801 PCI Bridge
+                       Intel 5 Series Chipset LPC Interface Controller
+                       Intel Core Processor QuickPath Architecture Generic Non-core Registers
+                       Intel Core Processor QuickPath Architecture System Address Decoder
+                       Intel Core Processor QPI Link 0
+                       Intel 1st Generation Core i3/5/7 Processor QPI Physical 0
+                       Intel 1st Generation Core i3/5/7 Processor Reserved
+                       Intel 1st Generation Core i3/5/7 Processor Reserved
+hub:
+                       Linux Foundation 2.0 root hub
+                       Intel Integrated Rate Matching Hub
+                       Linux Foundation 2.0 root hub
+                       Intel Integrated Rate Matching Hub
+memory:
+                       Main Memory
+firewire controller:
+                       VIA VT6315 Series Firewire Controller
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+                       PS/2 Controller
+                       Intel 5 Series/3400 Series Chipset HECI Controller
+                       Intel 5 Series/3400 Series Chipset SMBus Controller
+                       Realtek Mass Storage Device
+2.7 
+Description:	Ubuntu 16.04.2 LTS
+model name	: Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz
