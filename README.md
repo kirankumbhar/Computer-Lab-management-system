@@ -4,7 +4,8 @@ This project is implemented using Socket programming in Java. The project consis
 This application uses Java swing to form User interface at server desktop. On running client.java on client desktop, The PC icon appers on server UI.
 On clicking PC icon You will see small window which will show all the hardware specifications and attached peripherals(such as mouse, keyboard, graphics card etc.) of client desktops.
 
-The limitation of project is you can connect upto 14 clients at a time to your server machine through this application and it doesn't work on windos due to security issues
+The limitation of project is you can connect upto 14 clients at a time to your server machine through this application and it doesn't work on windos due to security issues.
+
 How to setup:-
 1. Copy client folder to client machine
 2. Copy server folder to server machine.
