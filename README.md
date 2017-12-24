@@ -1,4 +1,4 @@
-#Computer Lab Management system using Java Socket Programming and Multithreading.
+Computer Lab Management system using Java Socket Programming and Multithreading.
 
 This project is implemented using Socket programming in Java. The project consists of two main java files known as Mtserver.java and client java
 This application uses Java swing to form User interface at server desktop. On running client.java on client desktop, The PC icon appers on server UI.
