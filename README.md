@@ -2,7 +2,7 @@ Computer Lab Management system using Java Socket Programming and Multithreading.
 
 This project is implemented using Socket programming in Java. The project consists of two main java files known as Mtserver.java and client java
 This application uses Java swing to form User interface at server desktop. On running client.java on client desktop, The PC icon appers on server UI.
-On clicking PC icon You will see small window which will show all the hardware specifications and attached peripherals(such as mouse, keyboard, graphics card etc.) of client desktops.
+On clicking PC icon You will see small window which will show all the hardware specifications and attached peripherals and internal hardware details(such as mouse, keyboard, graphics card, processor,ram etc.) of client desktops.
 
 The limitation of project is you can connect upto 14 clients at a time to your server machine through this application and it doesn't work on windos due to security issues.
 
